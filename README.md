@@ -3,7 +3,7 @@
 ## I'm a Software Engineering Student and Deep learning Enthusiastic!
 - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com !
 - 🌱 **I’m currently learning:** Data Base, Software Design and Architecture, Data Science.  
-- 👯 **I’m looking to:** collaborate with other content creators and developers
+- 👬 **I’m looking to:** collaborate with other content creators and developers
 - 🥅 **2020 Goals:** Looking for good opportunities.
 - 🎯 **Strengths:** Give 100% effort to complete work perfectly, Hard Worker, Always Energetic.
 - 💻 **Area of Interest:** AI, Computer vision, NLP, Robotics, IOT
