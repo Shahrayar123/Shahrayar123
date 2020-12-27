@@ -34,6 +34,11 @@
 <br />
 <br />
 
+<p align="center">
+  <b>Profile Views</b> <br/>
+  <img src="https://profile-counter.glitch.me/Shahrayar123/count.svg"/>
+</p>
+
 <!-- <a href="https://sourcerer.io/saadhaxxan"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a> -->
 
 <!-- [website]: https://nestedtech.blogspot.com/ -->
