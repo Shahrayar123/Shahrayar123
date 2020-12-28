@@ -4,7 +4,7 @@
 - 🔭 **I’m currently working on:** my blog http://nestedtech.blogspot.com !
 - 🌱 **I’m currently learning:** Data Base, Software Design and Architecture, Data Science.  
 - 👬 **I’m looking to:** collaborate with other content creators and developers
-- 🥅 **2020 Goals:** Looking for good opportunities.
+- 🥅 **2021 Goals:** Looking for good opportunities.
 - 🎯 **Strengths:** Give 100% effort to complete work perfectly, Hard Worker, Always Energetic.
 - 💻 **Area of Interest:** AI, Computer vision, NLP, Robotics, IOT
 
