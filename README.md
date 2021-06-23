@@ -32,9 +32,18 @@
 <a href="mailto:shahrayar.datascientist@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/shahrayar.malik.39/"><img src="https://img.shields.io/badge/-shahrayar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
+ ## Contribution Graph
+
+[![Shahrayar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahrayar123&theme=react-dark	)](https://github.com/shahrayar123)
+
+ 
+ <br>
  
  
- <h3><i>GitHub Analytics</i></h3>
+ 
+<!--  <h3><i>GitHub Analytics</i></h3> -->
+ ## GitHub Analytics
+ <br>
 
 <p align="center">
 <a href="https://github.com/shahrayar123">
