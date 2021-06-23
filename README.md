@@ -1,19 +1,13 @@
 ### Hi there, I'm Shahrayar 👋
 
 ## I'm a Software Engineering Student and Deep learning Enthusiastic!
-- 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com !
-- 🌱 **I’m currently learning:** Data Base, Data Science.  
+<!-- - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com ! -->
+- 🌱 **I’m currently learning:** Data Science
 - 👬 **I’m looking to:** collaborate with other content creators and developers
 - 🥅 **2021 Goals:** Looking for good opportunities.
 - 🎯 **Strengths:** Give 100% effort to complete work perfectly, Hard Worker, Always Energetic.
 - 💻 **Area of Interest:** AI, Computer vision, NLP, Robotics, IOT
 
-### Connect with me:
-
-<!-- [<img align="left" alt="shahrayar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] -->
-[<img align="left" alt="shahrayar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -29,14 +23,24 @@
 
 <br />
 <br />
+ 
+ ### Connect with Me
 
-<img align="left" alt="Shahrayar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahrayar123&show_icons=true&hide_border=true" />
-<br />
-<br />
+<p align="center">
+<a href="https://www.shahrayar.tech"><img src="https://img.shields.io/badge/-shahrayar.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/"><img src="https://img.shields.io/badge/-Muhammad%20Shahrayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shahrayar.datascientist@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/shahrayar.malik.39/"><img src="https://img.shields.io/badge/-shahrayar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-<!-- <a href="https://sourcerer.io/saadhaxxan"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a> -->
+ 
+ 
+ <h3><i>GitHub Analytics</i></h3>
 
-<!-- [website]: https://nestedtech.blogspot.com/ -->
-
-[linkedin]: https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/
-<!-- [facebook]: https://www.facebook.com/shahrayar.malik.39 -->
+<p align="center">
+<a href="https://github.com/shahrayar123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahrayar123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahrayar123&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrayar123&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
