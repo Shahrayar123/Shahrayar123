@@ -1,6 +1,25 @@
-### Hi there, I'm Shahrayar 👋
 
-## I'm a Software Engineering Student and Data Science Enthusiastic!
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a>, I'm Shahrayar</h1>
+
+<p align="center">
+  <a href="https://github.com/Shahrayar123"><img src="https://readme-typing-svg.herokuapp.com?color=1DAFD4&size=23&vCenter=true&width=560&height=55&lines=Final+year+Software+Engineering+Student;Self+taught+Data+Analyst+%26+Data+Scientist;1.5%2B+year+of+experience...;Always+exploring+new+things;Reach+out+if+you+need+help+!"></a>
+</p>
+
+<p align="center">
+        
+<a href="https://github.com/Shahrayar123">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Shahrayar123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>
+        
+<a href="https://shahrayar.tech/">
+<img alt="Website" title="Website" src="https://img.shields.io/website?label=Shahrayar.tech&style=for-the-badge&url=https%3A%2F%2FShahrayar.tech"/></a>
+        
+<a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/">
+<img alt="Linkedin" title="Follow me on linkedin" href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+             
+</p>
+
+
+## Data Science Enthusiastic!
 <!-- - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com ! -->
 - 🌱 **I’m currently learning:** NLP, App Development using Flutter
 - 👬 **I’m looking to:** collaborate with other content creators and developers
@@ -9,19 +28,6 @@
 - 💻 **Area of Interest:** AI, Computer vision, NLP, Robotics, IOT
 
 
-<!-- ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="C++" width="30px" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" />
-<img align="left" alt="Java" width="30px" src="https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg" />
-<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
-<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Tensorflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
-
-<br /> -->
 <br />
 
 ## My Skills
