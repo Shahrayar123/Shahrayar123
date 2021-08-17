@@ -20,7 +20,7 @@
 </p>
 
 
-## Data Science Enthusiastic!
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Data Science Enthusiastic!
 <!-- - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com ! -->
 - 🌱 **I’m currently learning:** NLP, App Development using Flutter
 - 👬 **I’m looking to:** collaborate with other content creators and developers
