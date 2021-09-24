@@ -148,3 +148,13 @@
 <a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/"><img src="https://img.shields.io/badge/-Muhammad%20Shahrayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shahrayar.datascientist@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/shahrayar.malik.39/"><img src="https://img.shields.io/badge/-shahrayar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+  
+<p align="center"><b>Show some </b><img src="https://www.desicomments.com/dc/25/66676/66676.gif" width="25px"><b> by </b><img src="https://media.giphy.com/media/4sPHesuyPZHRvGbDc9/giphy.gif?cid=790b7611659f996e3de762be5e3fbdf9d15d84060b3347ad&rid=giphy.gif&ct=g" width="25px"><b> some of the repositories! </b></p>
+
+
+<!--   https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif -->
+  
+  
+  
+  
