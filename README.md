@@ -26,7 +26,7 @@
 - 👬 **I’m looking to:** collaborate with other content creators and developers
 - 🥅 **2021 Goals:** Looking for good opportunities.
 - 🎯 **Strengths:** Give 100% effort to complete work perfectly, Hard Worker, Always Energetic.
-- 💻 **Area of Interest:** AI, Computer vision, NLP, Robotics, IOT
+- 💻 **Area of Interest:** Data Science, AI, Computer vision, NLP
 
 
 <br />
