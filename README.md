@@ -1,5 +1,6 @@
-
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a>, I'm Shahrayar</h1>
+<h1 align="center">
+  Hi there, <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" height="40px" />  I'm Shahrayar
+</h1>
 
 <p align="center">
   <a href="https://github.com/Shahrayar123"><img src="https://readme-typing-svg.herokuapp.com?color=1DAFD4&size=23&vCenter=true&width=560&height=55&lines=Final+year+Software+Engineering+Student;Self+taught+Data+Analyst+%26+Data+Scientist;1.5%2B+year+of+experience...;Always+exploring+new+things;Reach+out+if+you+need+help+!"></a>
@@ -9,18 +10,18 @@
         
 <a href="https://github.com/Shahrayar123">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Shahrayar123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>
-        
-<a href="https://shahrayar.tech/">
-<img alt="Website" title="Website" src="https://img.shields.io/website?label=Shahrayar.tech&style=for-the-badge&url=https%3A%2F%2FShahrayar.tech"/></a>
+          
+<a href="https://shahrayar123.github.io/Portfolio/">
+<img alt="Website" title="Visit my Website" src="https://img.shields.io/website?label=Shahrayar.tech&style=for-the-badge&url=https%3A%2F%2FShahrayar.tech"/></a>
         
 <a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/">
-<img alt="Linkedin" title="Follow me on linkedin" href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img alt="Linkedin" title="Follow me on linkedin" href="https://www.linkedin.com/in/shahrayar/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
              
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Data Science Enthusiastic!
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Data Science Enthusiastic!
 <!-- - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com ! -->
 - 🌱 **I’m currently learning:** NLP, Mobile Application Development
 - 👬 **I’m looking to:** collaborate with other content creators and developers
@@ -30,7 +31,7 @@
 
 <br />
 
-## My Skills
+## My Skills (Not limited to these only)
 
 <table width="100">
 <tbody>
@@ -143,13 +144,13 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="https://www.shahrayar.tech"><img src="https://img.shields.io/badge/-shahrayar.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/"><img src="https://img.shields.io/badge/-Muhammad%20Shahrayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:shahrayar.datascientist@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://shahrayar123.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Shahrayar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/"><img src="https://img.shields.io/badge/-Muhammad%20Shahrayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
+<a href="mailto:shahrayar.datascientist@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/shahrayar.malik.39/"><img src="https://img.shields.io/badge/-shahrayar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
   
-<p align="center"><b>Show some </b><img src="https://www.desicomments.com/dc/25/66676/66676.gif" width="25px"><b> by </b><img src="https://media.giphy.com/media/4sPHesuyPZHRvGbDc9/giphy.gif?cid=790b7611659f996e3de762be5e3fbdf9d15d84060b3347ad&rid=giphy.gif&ct=g" width="25px"><b> some of the repositories! </b></p>
+<p align="center"><b>Show some </b><img src="https://www.desicomments.com/dc/25/66676/66676.gif" width="25px" height="25px" ><b> by </b><img src="https://media.giphy.com/media/4sPHesuyPZHRvGbDc9/giphy.gif?cid=790b7611659f996e3de762be5e3fbdf9d15d84060b3347ad&rid=giphy.gif&ct=g" width="25px" height="25px" ><b> some of the repositories! </b></p>
 
 
 <!--   https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif -->
