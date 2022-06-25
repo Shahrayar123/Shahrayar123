@@ -23,10 +23,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Data Science Enthusiastic!
 <!-- - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com ! -->
-- 🌱 **I’m currently learning:** NLP, Mobile Application Development
-- 👬 **I’m looking to:** collaborate with other content creators and developers
-- 🎯 **Strengths:** Give 100% effort to complete work perfectly, Hard Worker, Always Energetic.
-- 💻 **Area of Interest:** Data Science, AI, Computer vision, NLP
+<!-- - 👬 **I’m looking to:** collaborate with other content creators and developers -->
+- 🌱 **I’m currently learning:** NLP, Mobile Application Development 
+- 💪 **Strengths:** Stretegic Thinking, Hard Worker, Always Energetic.
+- 🎯 **Area of Interest:** Data Science, AI, NLP
+- 💻 **Projects:** [My Kaggle Projects](https://www.kaggle.com/muhammadshahrayar/code)
 
 
 <br />
