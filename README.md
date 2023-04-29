@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Shahrayar123"><img src="https://readme-typing-svg.herokuapp.com?color=1DAFD4&size=23&vCenter=true&width=560&height=55&lines=Final+year+Software+Engineering+Student;Self+taught+Data+Analyst+%26+Data+Scientist;1.5%2B+year+of+experience...;Always+exploring+new+things;Reach+out+if+you+need+help+!"></a>
-</p>
+<!--   <a href="https://github.com/Shahrayar123"><img src="https://readme-typing-svg.herokuapp.com?color=1DAFD4&size=23&vCenter=true&width=560&height=55&lines=Final+year+Software+Engineering+Student;Self+taught+Data+Analyst+%26+Data+Scientist;1.5%2B+year+of+experience...;Always+exploring+new+things;Reach+out+if+you+need+help+!"></a>
+</p> -->
 
 <p align="center">
         
