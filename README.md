@@ -14,7 +14,8 @@
 <a href="https://shahrayar123.github.io/Portfolio/">
 <img alt="Website" title="Visit my Website" src="https://img.shields.io/website?label=Shahrayar.tech&style=for-the-badge&url=https%3A%2F%2FShahrayar.tech"/></a>
         
-<a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/">
+  
+<a href="https://www.linkedin.com/in/shahrayar/">
 <img alt="Linkedin" title="Follow me on linkedin" href="https://www.linkedin.com/in/shahrayar/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
              
