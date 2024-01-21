@@ -22,12 +22,12 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Data Science Enthusiastic!
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Professional Data Scientist
 <!-- - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com ! -->
 <!-- - 👬 **I’m looking to:** collaborate with other content creators and developers -->
-- 🌱 **I’m currently learning:** NLP, Mobile Application Development 
+<!-- - 🌱 **I’m currently learning:** NLP, Mobile Application Development -->
 - 💪 **Strengths:** Stretegic Thinking, Hard Worker, Always Energetic.
-- 🎯 **Area of Interest:** Data Science, AI, NLP
+- 🎯 **Area of Interest:** Data Science, Data Engineering, AI, NLP
 - 💻 **Projects:** [My Kaggle Projects](https://www.kaggle.com/muhammadshahrayar/code)
 
 
