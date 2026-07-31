@@ -35,15 +35,11 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
 
-          # Contribution / commit habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-
-          # Activity calendar for the last year
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # Overall issues and pull request status
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_followup_indepth: no
+          plugin_followup_archived: yes
 
           # Most-starred repos
           plugin_topics: yes
