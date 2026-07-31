@@ -101,6 +101,14 @@ I enjoy work that sits close to the problem — designing the architecture, buil
 
 <br>
 
+## ⚙️ GitHub Metrics
+
+<p align="center">
+  <img width="100%" src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<br>
+
 ### 🤝 Connect with Me
 
 <p align="center">
