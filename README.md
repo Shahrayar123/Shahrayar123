@@ -104,7 +104,7 @@ I enjoy work that sits close to the problem — designing the architecture, buil
 ## ⚙️ GitHub Metrics
 
 <p align="center">
-  <img width="100%" src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img width="500" src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <br>
