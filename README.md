@@ -1,134 +1,93 @@
-<h1 align="center">
-  Hi there, <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" height="40px" />  I'm Shahrayar
-</h1>
+<h1 align="center">Muhammad Shahrayar</h1>
 
 <p align="center">
-<!--   <a href="https://github.com/Shahrayar123"><img src="https://readme-typing-svg.herokuapp.com?color=1DAFD4&size=23&vCenter=true&width=560&height=55&lines=Final+year+Software+Engineering+Student;Self+taught+Data+Analyst+%26+Data+Scientist;1.5%2B+year+of+experience...;Always+exploring+new+things;Reach+out+if+you+need+help+!"></a>
-</p> -->
-
-<p align="center">
-        
-<a href="https://github.com/Shahrayar123">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Shahrayar123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>
-          
-<a href="https://shahrayar123.github.io/Portfolio/">
-<img alt="Website" title="Visit my Website" src="https://img.shields.io/website?label=Shahrayar.tech&style=for-the-badge&url=https%3A%2F%2FShahrayar.tech"/></a>
-        
-  
-<a href="https://www.linkedin.com/in/shahrayar/">
-<img alt="Linkedin" title="Follow me on linkedin" href="https://www.linkedin.com/in/shahrayar/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-             
+  <b>AI Engineer · Data Scientist</b><br/>
+  Building agentic AI systems, RAG pipelines, and automation across banking, healthcare, logistics, and telecom.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahrayar/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://shahrayarmalik.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1DAFD4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:shahrayar.datascientist@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shahrayar123">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Shahrayar123?style=for-the-badge&logo=github&label=Followers&color=236ad3"/>
+  </a>
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Professional Data Scientist
-<!-- - 🔭 **I’m currently working on:** my website http://nestedtech.blogspot.com ! -->
-<!-- - 👬 **I’m looking to:** collaborate with other content creators and developers -->
-<!-- - 🌱 **I’m currently learning:** NLP, Mobile Application Development -->
-- 💪 **Strengths:** Stretegic Thinking, Hard Worker, Always Energetic.
-- 🎯 **Area of Interest:** Data Science, Data Engineering, AI, NLP
-- 💻 **Projects:** [My Kaggle Projects](https://www.kaggle.com/muhammadshahrayar/code)
+---
 
+## About
 
-<br />
+AI Engineer and Data Scientist with ~3 years of production experience building LLM-powered and data-driven systems. My work has spanned **banking and financial services**, **healthcare AI**, **logistics and supply chain**, and **telecom**, and the through-line is the same in each: take a messy, high-stakes operational problem and turn it into a system that runs reliably and explains its reasoning.
 
-## My Skills (Not limited to these only)
+I enjoy work that sits close to the problem — designing the architecture, building it, and staying with it through deployment.
 
-<table width="100">
-<tbody>
- 
-<tr>
-<td align='center' width="150"><h4>Languages</h4></td>
-<td align='center' width="180"><h4>ToolKits</h4></td>
-<td align='center' width="180"><h4>Cloud</h4></td>
-<td align='center' width="180"><h4>IDEs</h4></td>
-<td align='center' width="180"><h4>Operating System</h4></td>
-<td align='center' width="180"><h4>Office</h4></td>
-</tr>
- 
-<tr>
-<td align='center' width="180"><img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" alt="python" width="80" height="80"/></td>
-<td align='center' width="180"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="" width="80" height="80" /></td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/2560px-Netlify_logo.svg.png" alt="netlify" width="100" height="30" /></td>
-<td align='center' width="180"><img src="https://images.squarespace-cdn.com/content/592e86ee9de4bb6e73d8c154/1514037234329-9M1T31ZQJXFI3NT9FSJH/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png?content-type=image%2Fpng" alt="vs code" width="80" height="80" /></td>
-<td align='center' width="180"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9q2LHcsUWwGC8n7kfXfsx3S1TBOEsrvk8Q&usqp=CAU" alt="linux" width="130" height="75" /></td>
-<td align='center' width="180"><img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" alt="excel" width="80" height="70" /></td>
-</tr>
- 
-<tr>
-<td align='center' width="180"><img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="" width="70" /></td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="" width="80" height="80" /></td>
-<td align='center' width="180"><img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH" alt="" width="100" height="75" /></td>
-<td align='center' width="180"><img src="https://miro.medium.com/max/346/0*I3hkRieQ6B3qwwhy." alt="jupyter" width="85" height="75" /></td>
-<td align='center' width="180"><img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" alt="ubuntu" width="90" height="75" /></td>
-<td align='center' width="180"><img src="https://download.logo.wine/logo/Microsoft_Word/Microsoft_Word-Logo.wine.png" alt="word" width="130" height="80" /></td>
-</tr>
- 
-<tr>
-<td align='center' width="180"><img src="https://download.logo.wine/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.png" alt="dart" width="120" height="90" /></td>
-<td align='center' width="180"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="100" height="90" /></td>
-<td align='center' width="180">&nbsp;</td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="80" height="80" /></td>
-<td align='center' width="180"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpU2gDc_li3R8lyzPEvx2Tr7YrRgRI9NJlBSq7Tcmk3Mrd0fD7LWtVP0J8rKYLg3BNP8&amp;usqp=CAU" alt="window" width="90" height="75" /></td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" alt="powerpoint" width="75" height="75" /></td>
-</tr>
- 
-<tr>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/544px-HTML5_logo_resized.svg.png" alt="html" width="60" /></td>
-<td align='center' width="180"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="90" /></td>
-<td align='center' width="180">&nbsp;</td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" alt="" width="80" /></td>
-<td align='center' width="180">&nbsp;</td>
-<td align='center' width="180"><img src="https://i.pcmag.com/imagery/reviews/06ajIYT7R4AM7Fx9S9aUmBn-14..1613661897.png" alt="libraoffice" width="120" height="85" /></td>
-</tr>
- 
-<tr>
+- **Focus:** Agentic AI systems, multi-agent orchestration, RAG and knowledge retrieval, ML pipelines, automation
+- **Sectors:** Banking & fintech · Healthcare AI · Logistics & supply chain · Telecom
+- **Comfortable with:** on-premises and offline deployment, compliance-sensitive environments, local inference, human-in-the-loop design
+- **Currently exploring:** LangGraph, evaluation frameworks (RAGAS), LLM gateway and routing patterns, inference optimization
 
-<td align='center' width="180"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" alt="javascript" width="60" /></td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="90"/></td>
-<td align='center' width="180"><img alt="" width="60" /></td>
-<td align='center' width="180"><img src="https://mobilemerit.com/blog/wp-content/uploads/2015/11/android-studio-logo.jpg" alt="androidStudio" width="100" height="60" /></td>
-<td align='center' width="180"><img alt="" width="60" /></td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" alt="latex" width="100" height="45" /></td>
-</tr>
- 
- 
-<tr>
-<td align='center' width="180"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="" width="60" /></td>
-<td align='center' width="180"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" width="140" height="80"></td>
-<td align='center' width="180">&nbsp;</td>
-<td align='center' width="180">&nbsp;</td>
-<td align='center' width="180">&nbsp;</td>
-<td align='center' width="180">&nbsp;</td>
-</tr>
- 
- 
-<tr>
-<td >&nbsp;</td>
-<td align='center' width="180"><img src="https://flutterappdev.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-25-at-12.54.42-PM-860x500.png" width="135" height="75"></td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
- 
-</tbody>
-</table>
+---
 
-<br>
+## Tech Stack
 
+**Languages**
 
-<!--  ## Contribution Graph
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-[![Shahrayar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahrayar123&theme=react-dark	)](https://github.com/shahrayar123)
+**AI & Agents**
 
- 
- <br> -->
- 
- 
- 
-<!--  <h3><i>GitHub Analytics</i></h3> -->
+![OpenAI](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-00B8D9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Vector%20Search-FF6F00?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Platform & Ops**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudera](https://img.shields.io/badge/Cloudera-F96702?style=flat-square&logo=cloudera&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica%20DEI-FF4D00?style=flat-square&logo=informatica&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Interfaces & BI**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
  ## GitHub Analytics
  <br>
 
@@ -139,24 +98,14 @@
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrayar123&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" />
 </p>
-</p>
 
 <br>
 
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="https://shahrayar123.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Shahrayar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-shahrayar-b1bb911a0/"><img src="https://img.shields.io/badge/-Muhammad%20Shahrayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
-<a href="mailto:shahrayar.datascientist@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>  
-<a href="https://www.facebook.com/shahrayar.malik.39/"><img src="https://img.shields.io/badge/-shahrayar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-  
-<p align="center"><b>Show some </b><img src="https://www.desicomments.com/dc/25/66676/66676.gif" width="25px" height="25px" ><b> by </b><img src="https://media.giphy.com/media/4sPHesuyPZHRvGbDc9/giphy.gif?cid=790b7611659f996e3de762be5e3fbdf9d15d84060b3347ad&rid=giphy.gif&ct=g" width="25px" height="25px" ><b> some of the repositories! </b></p>
-
-
-<!--   https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif -->
-  
-  
-  
-  
+<a href="https://shahrayarmalik.vercel.app/"><img src="https://img.shields.io/badge/-Shahrayar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shahrayar/"><img src="https://img.shields.io/badge/-Muhammad%20Shahrayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
+<a href="mailto:shahrayar.datascientist@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.kaggle.com/muhammadshahrayar/code"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
+</p>
